@@ -1,3 +1,8 @@
+In this project you need to develop a simple console slot game using Lumen a micro-framework by laravel
+```
+https://lumen.laravel.com
+```
+it's very simple, plug and play
 
 File Structure:
 
