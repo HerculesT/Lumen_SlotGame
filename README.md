@@ -22,7 +22,7 @@ How to Use:
 git clone https://github.com/HerculesT/Lumen_SlotGame.git
 ```
 ```
-cd Lumen_slotGame_Master
+cd Lumen_slotGame
 ```
 Run Command:
 ```
