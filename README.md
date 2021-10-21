@@ -24,6 +24,10 @@ git clone https://github.com/HerculesT/Lumen_SlotGame.git
 ```
 cd Lumen_slotGame
 ```
+```
+composer install
+```
+
 Run Command:
 ```
 php artisan slot:spin
